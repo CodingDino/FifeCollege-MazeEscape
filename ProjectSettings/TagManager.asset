@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 474537893
+    locked: 0
+  - name: Walls
+    uniqueID: 2760579781
+    locked: 0
+  - name: Items
+    uniqueID: 3433161881
+    locked: 0
+  - name: Character
+    uniqueID: 4064249177
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
